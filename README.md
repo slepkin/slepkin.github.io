@@ -1,10 +1,10 @@
 ## Hi, I'm Simon.
 
-I started my engineering career in 2013 at [Upstart](https://www.upstart.com/), building it up from 4 engineers to 400. I’ve contributed, led, or managed in Product, Data, and Platform Engineering teams. I created and executed an org-wide internship program, and I’ve coached a variety of engineers 1:1, from fresh bootcamp grads to industry veterans.
+I started my engineering career in 2013 at Upstart, building it up from 4 engineers to 400. I’ve contributed, led, or managed in Product, Data, and Platform Engineering teams. I created and executed an org-wide internship program, and I’ve coached numerous engineers 1:1, from fresh bootcamp grads to industry veterans.
 
-I’m energized by helping engineers who struggle to be heard. Maybe you’re afraid to ask questions, or maybe your questions never get answered. Maybe you have great ideas, but no one else in your organization seems to care.
+I’m energized by helping engineers who struggle to be heard. If you're early in your career, I can help you push through Imposter Syndrome, ask questions that get better responses, and ramp up quickly. If you're mid- or senior-level, I can teach you how to influence without authority, and change how your peers and leads think of you.
 
-It's easy to find a coworker or instructor to help you with the technical challenges, but frequently our problems boil down to a failure in communication. Depending on your circumstances, I can help you clarify your arguments, view things from the perspective of those you clash with, or find a different path that can get you what you want.
+It's easy to find a coworker or instructor to help you with the technical challenges, but frequently our problems boil down to a failure in soft skills. A good manager can help, but most managers are juggling hundreds of balls and can't spend that much time on one engineer. I've been there, and I can help you push through it.
 
 ## Contact
 
