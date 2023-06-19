@@ -3,8 +3,13 @@ title: Simon Lepkin Coaching
 description: Coaching for engineers who struggle to be heard.
 logo: /assets/photo.jpg
 show_downloads: false
-image: /assets/identicon.png
 social:
   links:
     - https://www.linkedin.com/in/simon-lepkin/
     - https://hachyderm.io/@slepkin
+defaults:
+  -
+    scope:
+      path: "" # all pages/posts
+    values:
+      image: /assets/identicon.png
