@@ -14,7 +14,7 @@ It's easy to find a coworker or instructor to help you write the code, but often
 
 ## Schedule free session
 
-If any of this resonates with you, get in touch! Schedule a [free intro call](https://calendly.com/slepkin-coaching/intro), or [shoot me an email](mailto:slepkin@gmail.com).
+If any of this resonates with you, get in touch! Schedule a [free intro call](https://calendar.app.google/66mGcQBzBiiGBCjL8), or [shoot me an email](mailto:slepkin@gmail.com).
 
 ## What people say about working with me
 #### "Through intensive coaching sessions, [Simon] helped me identify the root causes of my issues. He skillfully guided me in setting clear goals and held me accountable for achieving them, all while challenging my thinking with deep insights. Simon's coaching transformed my mindset, reducing stress at work and empowering me to become a more self-assured professional." —[Tabitha O'Melay](https://www.linkedin.com/in/tabbykatz/)
